@@ -34,6 +34,7 @@ public class Ativformativa3 {
         	}
         	else  {
         	System.out.println("Ocorreu um erro, divisão por zero, digite novamente ");
+		return;
         }
         	break;
         default:
